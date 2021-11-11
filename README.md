@@ -20,3 +20,5 @@
 ### 10 Days of JS<br/><br/>
 
 - [Loops](https://www.hackerrank.com/challenges/js10-loops/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
+
+- [Regex I](https://www.hackerrank.com/challenges/js10-regexp-1/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
