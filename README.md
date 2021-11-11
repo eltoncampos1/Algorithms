@@ -13,4 +13,4 @@
 
 - [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?h_r=next-challenge&h_v=zen) <br/>
 
-- [Time ConversionDiagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) <br/>
+- [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) <br/>
