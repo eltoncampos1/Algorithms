@@ -24,3 +24,5 @@
 - [Regex I](https://www.hackerrank.com/challenges/js10-regexp-1/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
 
 - [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
+
+- [Throw](https://www.hackerrank.com/challenges/js10-throw/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
