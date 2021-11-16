@@ -17,6 +17,8 @@
 
 - [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?h_r=next-challenge&h_v=zen) <br/><br/>
 
+- [Grading Students](https://www.hackerrank.com/challenges/grading/problem) <br/><br/>
+
 ### 10 Days of JS<br/><br/>
 
 - [Loops](https://www.hackerrank.com/challenges/js10-loops/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
