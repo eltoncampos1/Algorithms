@@ -21,6 +21,10 @@
 
 - [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?h_r=next-challenge&h_v=zen) <br/>
 
+- [Apple and OrangeNumber Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
+
+<br/>
+
 ### 10 Days of JS<br/><br/>
 
 - [Loops](https://www.hackerrank.com/challenges/js10-loops/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
