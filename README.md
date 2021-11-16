@@ -21,7 +21,7 @@
 
 - [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?h_r=next-challenge&h_v=zen) <br/>
 
-- [Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
+- [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
 
 <br/>
 
