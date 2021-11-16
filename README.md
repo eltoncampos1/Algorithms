@@ -15,9 +15,11 @@
 
 - [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) <br/>
 
-- [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?h_r=next-challenge&h_v=zen) <br/><br/>
+- [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?h_r=next-challenge&h_v=zen) <br/>
 
-- [Grading Students](https://www.hackerrank.com/challenges/grading/problem) <br/><br/>
+- [Grading Students](https://www.hackerrank.com/challenges/grading/problem) <br/>
+
+- [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?h_r=next-challenge&h_v=zen) <br/>
 
 ### 10 Days of JS<br/><br/>
 
