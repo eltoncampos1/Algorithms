@@ -27,7 +27,8 @@
 
 - [Divisible sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true) <br/>
 
-<br/>
+- [Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true) <br/>
+  <br/>
 
 ### 10 Days of JS<br/><br/>
 
