@@ -25,6 +25,8 @@
 
 - [Cat and Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) <br/>
 
+- [Divisible sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true) <br/>
+
 <br/>
 
 ### 10 Days of JS<br/><br/>
