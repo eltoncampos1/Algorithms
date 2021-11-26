@@ -23,6 +23,8 @@
 
 - [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
 
+- [Cat and Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) <br/>
+
 <br/>
 
 ### 10 Days of JS<br/><br/>
