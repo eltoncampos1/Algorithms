@@ -30,6 +30,9 @@
 - [Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true) <br/>
   <br/>
 
+- [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true) <br/>
+  <br/>
+
 ### 10 Days of JS<br/><br/>
 
 - [Loops](https://www.hackerrank.com/challenges/js10-loops/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
