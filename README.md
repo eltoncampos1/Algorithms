@@ -36,6 +36,9 @@
 - [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) <br/>
   <br/>
 
+- [Camel Case](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=true) <br/>
+  <br/>
+
 ### 10 Days of JS<br/><br/>
 
 - [Loops](https://www.hackerrank.com/challenges/js10-loops/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
