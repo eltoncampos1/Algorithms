@@ -59,3 +59,5 @@
 - [Sum](https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa/solutions?solutionId=kJTRTjJXNB2fWKKuY) <br/>
 
 - [Check Palindrome](https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ) <br/>
+
+- [Adjacent Elements Product](https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m) <br/>
