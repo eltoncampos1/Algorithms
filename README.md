@@ -52,10 +52,12 @@
 - [Throw](https://www.hackerrank.com/challenges/js10-throw/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
 
 
-# Elixir Resolutions
+# Codesignal
 
-- [Centuries from year](https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN/solutions?solutionId=RzeCEWRoe4aH5oQ6Z) <br/>
+- [Centuries from year Elixir](https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN/solutions?solutionId=RzeCEWRoe4aH5oQ6Z) <br/>
 
-- [Sum](https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa/solutions?solutionId=kJTRTjJXNB2fWKKuY) <br/>
+- [Sum Elixir](https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa/solutions?solutionId=kJTRTjJXNB2fWKKuY) <br/>
+
+- [Sum JS](https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa/solutions?solutionId=kJTRTjJXNB2fWKKuY) <br/>
 
 - [Check Palindrome](https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ) <br/>
