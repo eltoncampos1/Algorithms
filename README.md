@@ -57,3 +57,5 @@
 - [Centuries from year](https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN/solutions?solutionId=RzeCEWRoe4aH5oQ6Z) <br/>
 
 - [Sum](https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa/solutions?solutionId=kJTRTjJXNB2fWKKuY) <br/>
+
+- [Check Palindrome](https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ) <br/>
