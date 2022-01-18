@@ -1,8 +1,10 @@
-# Hackerrank Resolutions
+# Algorithms Resolutions
 
 ### Get in Touch
 
-### [my account](https://www.hackerrank.com/eltoncampos36) <br/>
+### [my Hackerrank account](https://www.hackerrank.com/eltoncampos36) <br/>
+### [my Codesignal account](https://app.codesignal.com/profile/elton_c_pdf) <br/>
+
 
 <br/>
 <br/>
@@ -48,3 +50,8 @@
 - [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
 
 - [Throw](https://www.hackerrank.com/challenges/js10-throw/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) <br/>
+
+
+# Elixir Resolutions
+
+- [Centuries from year](https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN/solutions?solutionId=RzeCEWRoe4aH5oQ6Z) <br/>
